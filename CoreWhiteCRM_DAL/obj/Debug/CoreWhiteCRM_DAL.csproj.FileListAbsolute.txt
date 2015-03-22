@@ -1,0 +1,5 @@
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_DAL\bin\Debug\CoreWhiteCRM_DAL.dll
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_DAL\bin\Debug\CoreWhiteCRM_DAL.pdb
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_DAL\obj\Debug\CoreWhiteCRM_DAL.csprojResolveAssemblyReference.cache
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_DAL\obj\Debug\CoreWhiteCRM_DAL.dll
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_DAL\obj\Debug\CoreWhiteCRM_DAL.pdb
