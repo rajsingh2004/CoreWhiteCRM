@@ -11,7 +11,7 @@ namespace CoreWhiteCRM_Controllers.Areas.Account.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            return View("");
         }
     }
 }
