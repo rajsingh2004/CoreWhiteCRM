@@ -39,7 +39,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataAccessLayer.cs" />
+    <Compile Include="IDataAccessLayes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CoreWhiteCRM_Common\CoreWhiteCRM_Common.csproj">
+      <Project>{4a67b14e-b82d-4fc2-ae6c-f6ad969c659b}</Project>
+      <Name>CoreWhiteCRM_Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
